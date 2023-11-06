@@ -1,0 +1,20 @@
+{
+  "favorites.resources": [
+    {
+      "filePath": "src\\.vuepress\\config.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\.vuepress\\navbar.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\.vuepress\\sidebar.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\.vuepress\\theme.ts",
+      "group": "Default"
+    }
+  ]
+}
